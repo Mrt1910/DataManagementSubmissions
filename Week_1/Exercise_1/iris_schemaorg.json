@@ -1,0 +1,17 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "name": "Iris Species Dataset",
+    "description": "A multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper.",
+    "creator": {
+        "@type": "Person",
+        "name": "Ronald Aylmer Fisher"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "UCI Machine Learning Repository"
+    },
+    "datePublished": "1936",
+    "url": "https://archive.ics.uci.edu/dataset/53/iris",
+    "identifier": "10.24432/C56C76"
+}
